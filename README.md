@@ -64,11 +64,23 @@ will be added after further systematization.
 - Statistical evaluation of detected directions
 - External cloud-based data analysis
 - Improved market phase filtering
-- Extended structural pattern classification
+- Extended structural pattern classification.  
 
 ---
 
 ## Important Notice
 This project is strictly research-oriented.
 It is not a trading system and does not provide
-financial or investment advice.
+financial or investment advice.## Proof of Concept
+
+The system described in this repository has been tested
+on real market data.
+
+Practical confirmations exist in the form of:
+- historical market observations
+- real-time behavior consistency
+- experimental results
+
+Detailed examples and additional materials
+can be provided upon request.
+
